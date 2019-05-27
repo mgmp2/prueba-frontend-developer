@@ -38,3 +38,5 @@ Logos de Turismoi disponibles en /sources
 * Hacer un fork en GitHub de este repositorio. No enviar commits directamente: Usar pull request desde el fork (ver: https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 * Consultas o dudas sobre el avance deben ser enviadas a *willy@turismoi.com* o agregarme al repositorio clonado como *willywg* y consultarme por un issue
 
+# Nota
+A darle ! 
